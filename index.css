@@ -1,0 +1,9 @@
+
+.carousel-item {
+    height: 500px;
+    object-fit: cover;
+}
+.aquabridge{
+    background-color: blue;
+    color: brown;
+}
